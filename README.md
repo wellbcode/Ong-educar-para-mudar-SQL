@@ -70,7 +70,7 @@ Todo o modelo foi analisado e atende:
 As análises completas encontram-se no documento Experiência Prática 3.
 ________________________________________
 🗄️ 5. Scripts SQL
-Todo o script foi centralizado em um único arquivo: script-completo.sql
+Todo o script foi centralizado em um único arquivo: ong_educar.sql
 Inclui:
 📥 INSERTS Principais
 Voluntários, beneficiários, atividades, projetos e participações.
@@ -95,8 +95,7 @@ ________________________________________
 🧪 6. Como Executar o Projeto (MySQL Workbench)
 1.	Abrir o MySQL Workbench
 2.	Ir em File → Open SQL Script
-3.	Selecionar:
-script-completo.sql
+3.	Selecionar: ong_educar.sql
 4.	Clicar em Execute (⚡)
 5.	Banco criado e populado automaticamente
 ________________________________________
