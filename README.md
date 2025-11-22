@@ -60,7 +60,6 @@ ________________________________________
 🖼️ 3.2 Diagrama Entidade-Relacionamento (DER)
 A imagem do DER utilizada no projeto pode ser encontrada em:
 /diagramas/der.png
-(ou caminho equivalente no seu repositório)
 ________________________________________
 🧩 4. Normalização
 Todo o modelo foi analisado e atende:
