@@ -116,5 +116,5 @@ ________________________________________
 🙋 Autor
 Wellington Bertoso Santos
 Projeto acadêmico — Faculdade
-📦 Repositório GitHub - https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO
+📦 Repositório GitHub - https://wellbcode.github.io/Ong-educar-para-mudar-SQL/
 
